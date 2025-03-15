@@ -15,7 +15,7 @@ Testing Test-Driven Development (TDD) applications
 
 
 # (PL) Python Intro
-Repozytorium podstawowych zadań z języka Python dla przedmiotu uniwersyteckiego „Zaawansowane kodowanie”.
+Repozytorium podstawowych zadań z języka Python dla przedmiotu uniwersyteckiego „Programowanie zaawansowane”.
 ## Zadanie 1
 Wprowadzenie i organizacja pracy - korzystanie z dokumentacji języka Python (publikacja na GitHub).
 ## Zadanie 2
