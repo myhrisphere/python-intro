@@ -2,9 +2,9 @@
 Repository for basic Python tasks for university subject "Advanced Coding".
 
 ## Task 1
-Introduction and workflow - using Python documentation (publishing on GitHub)
+Introduction and workflow - using Python documentation (publishing on GitHub).
 ## Task 2
-Testing Test-Driven Development (TDD) applications
+Testing Test-Driven Development (TDD) applications.
 ## Task 3
 Creating your own programming library in Python.
 ## Task 4
