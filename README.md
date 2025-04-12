@@ -8,7 +8,7 @@ Testing Test-Driven Development (TDD) applications
 ## Task 3
 Creating your own programming library in Python.
 ## Task 4
-(WIP)
+MCDM methods using the `pymcdm` library.
 ## Task 5
 (WIP)
 
@@ -23,6 +23,6 @@ Testowanie aplikacji Test-Driven Development (TDD).
 ## Zadanie 3
 Tworzenie własnej biblioteki programistycznej w Pythonie.
 ## Zadanie 4
-(WIP)
+Metody MCDM z wykorzystaniem biblioteki `pymcdm`.
 ## Zadanie 5
 (WIP)
