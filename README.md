@@ -6,7 +6,7 @@ Introduction and workflow - using Python documentation (publishing on GitHub)
 ## Task 2
 Testing Test-Driven Development (TDD) applications
 ## Task 3
-(WIP)
+Creating your own programming library in Python.
 ## Task 4
 (WIP)
 ## Task 5
@@ -21,7 +21,7 @@ Wprowadzenie i organizacja pracy - korzystanie z dokumentacji języka Python (pu
 ## Zadanie 2
 Testowanie aplikacji Test-Driven Development (TDD).
 ## Zadanie 3
-(WIP)
+Tworzenie własnej biblioteki programistycznej w Pythonie.
 ## Zadanie 4
 (WIP)
 ## Zadanie 5
