@@ -10,7 +10,7 @@ Creating your own programming library in Python.
 ## Task 4
 MCDM methods using the `pymcdm` library.
 ## Task 5
-(WIP)
+Identifying Python libraries for specific functionalities.
 
 
 
@@ -25,4 +25,4 @@ Tworzenie własnej biblioteki programistycznej w Pythonie.
 ## Zadanie 4
 Metody MCDM z wykorzystaniem biblioteki `pymcdm`.
 ## Zadanie 5
-(WIP)
+Poszukiwanie bibliotek o określonej funkcjonalności.
